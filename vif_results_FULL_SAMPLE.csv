@@ -1,0 +1,8 @@
+"Variable","VIF"
+"Age",1.832
+"Education",1.813
+"PH_centered",1.051
+"WE_centered",1.036
+"PH_x_WE",1.007
+"Gender",1.074
+"EmpType",1.082

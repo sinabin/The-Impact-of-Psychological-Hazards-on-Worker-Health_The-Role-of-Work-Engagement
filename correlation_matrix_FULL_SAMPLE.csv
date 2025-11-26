@@ -1,0 +1,5 @@
+"","PsychologicalHazards","HealthProblems","WorkEngagement","Age"
+"PsychologicalHazards",1,-0.025,0.013,0.139
+"HealthProblems",-0.025,1,-0.074,-0.367
+"WorkEngagement",0.013,-0.074,1,0.123
+"Age",0.139,-0.367,0.123,1

@@ -1,0 +1,6 @@
+# Python 패키지 의존성
+# 설치 방법: pip install -r requirements.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0

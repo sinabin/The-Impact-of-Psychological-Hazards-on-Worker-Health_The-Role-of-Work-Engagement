@@ -1,0 +1,4 @@
+﻿Scale,Cronbach_Alpha,Mean_Inter_Item_Corr,N_Items,N_Valid,Items
+PsychologicalHazards,0.6663419486301817,0.5205046116532589,3,50053,"hazard_psy1, hazard_psy2, hazard_psy3"
+HealthProblems,0.7769193466793276,0.5375186062995256,3,50107,"heal_prob1, heal_prob2, heal_prob3"
+WorkEngagement,0.8185779980564257,0.6024525515688062,3,50103,"weng1, weng2, weng3"
